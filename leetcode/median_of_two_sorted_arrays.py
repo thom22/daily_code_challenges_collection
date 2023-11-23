@@ -1,5 +1,6 @@
-# Median of Two Sorted Arrays
 
+# Median of Two Sorted Arrays
+# Level : Hard ( Advanced )
 # Algorithm Concept : Array, Binary Search, Divide and Conquer
 
 '''
